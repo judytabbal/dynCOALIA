@@ -2,7 +2,7 @@
 
 ## Description
 This project allows the user to 
-1- Reconstruct sources using different methods (wMNE/eLORETA)
+1- Reconstruct sources using different methods (wMNE/eLORETA)\
 2- Estimate dynamic functional connectivity (dFC) using sliding window approach and different phase and amplitude based metrics (PLV/wPLI/AEC)
 3- Apply different dimensionality reduction methods (ICA subtypes, PCA, NMF and Kmeans)
 The main objective is to test different pipeline methodologies to extract the accurate dynamic Brain Network States (dBNS) from simulated dense EEG signals.
